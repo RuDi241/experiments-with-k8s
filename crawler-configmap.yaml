@@ -3,6 +3,7 @@ kind: ConfigMap
 
 metadata:
   name: synergychat-crawler-configmap
+  namespace: crawler
 
 data:
   CRAWLER_PORT_1: "8080"
