@@ -18,7 +18,7 @@ I used **Minikube** and **kubectl** to explore core concepts, deployments, scali
 - **Minikube** for local Kubernetes cluster
 - **kubectl** for cluster management
 
-### 🚀 How to Run
+### How to Run
 
 ```bash
 # Start Minikube
